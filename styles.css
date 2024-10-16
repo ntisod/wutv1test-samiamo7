@@ -1,11 +1,18 @@
 body{
-    front-family: Arial, sans-serif;
+    
     background-color: #ff0000;
-    text-algin:center;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
     color:#000000;
 }
-p{
+p {
     color: #ffffff;
+}
+ol {
+    margin-left: 43%;
+}
+li {
+    text-align: left;
 }
