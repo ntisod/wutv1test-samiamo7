@@ -1,0 +1,22 @@
+body{
+    
+    background-color: #DDFFFF;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color:#020000;
+}
+p {
+    color: #000000;
+}
+ol {
+    margin-left: 43%;
+}
+li {
+    text-align: left;
+}
+
+section{
+    background-color: #99FFFF;
+}
