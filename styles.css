@@ -1,8 +1,10 @@
 body{
-    
-    background-color: #c5c5c5;
+    background-color: #51AAAA;
     text-align:center;
     font-family: Arial, Helvetica, sans-serif;
+}
+.bakground{
+    background-color: #288080;
 }
 h1 {
     color:#000000;
@@ -18,18 +20,27 @@ li {
 }
 
 section{
-    background-color: #a2bdbd;
+    background-color: #89d5d5;
 }
 
 nav ul {
     list-style-type: none;
-    margin:0;
-    padding:0;
-    width: 120px;
-    background-color: rgb(180, 189, 192);
+    padding: 0;
+    margin: auto;
+    background-color: rgb(180, 190, 190);
+    text-align: center;
 }
 
 nav li a {
     display: block;
-    width: 60px;
+    padding: 20px;
+    border: #288080 solid 1px;
+    text-align: center;
+    text-decoration: black;
+    color: black
+  }
+
+  li a:hover {
+    background-color: #288080;
+    color: rgb(248, 236, 236);
   }
